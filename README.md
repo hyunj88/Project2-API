@@ -24,9 +24,13 @@ Movie Factory is an online database of information related to movies. It include
 
   ## WireFrames / ScreenShots
 
+![Wireframe 1](https://user-images.githubusercontent.com/112126759/213948838-5b72313c-06fa-45bb-b596-9cfeef99fb2d.png)
+
+![Wireframe 2](https://user-images.githubusercontent.com/112126759/213948857-b6599938-6a33-43c7-bc68-74ec1d593f6d.png)
 
 
   ## Entity Relationship Diagrams (ERDs)
 
+![ERD](https://user-images.githubusercontent.com/112126759/213948868-e5e4cafe-7fae-4784-bc6a-22e114241514.png)
 
 
