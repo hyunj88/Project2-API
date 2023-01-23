@@ -4,6 +4,15 @@
 
 Movie Factory is an online database of information related to movies. It includes the type of genre, film director and movie synaopsis. It's great place for fans and film enthusiasts to visit and share your opinion. You can even have a friendly debate or discussion on the movies you like and don't like. Come and leave a review on your favorite film!
 
+## Technologies Used
+
+  - Javascript
+  - Mongodb
+  - Mongoose
+  - HTML
+  - CSS
+  - Express, Liquid, Bootstrap
+
 ## User Stories
 
   - As a user, I want the ability to sign up.
