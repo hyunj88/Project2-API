@@ -1,1 +1,32 @@
 # Project2-API
+
+## Overview
+
+Movie Factory is an online database of information related to movies. It includes the type of genre, film director and movie synaopsis. It's great place for fans and film enthusiasts to visit and share your opinion. You can even have a friendly debate or discussion on the movies you like and don't like. Come and leave a review on your favorite film!
+
+## User Stories
+
+  - As a user, I want the ability to sign up.
+  - As a user, I want the ability to sign in. 
+  - As a user, I want the ability to make a password. 
+  - As a user, I want the ability to sign out. 
+  - As a user, I want the ability to add in my own movies. 
+  - As a user, I want the ability to udpate my movies. 
+  - As a user, I want the ability to view all of movies in a list. 
+  - As a user, I want the ability to read more details of individual movies.
+  - As a user, I want the ability to add a review/comment for a movie.
+  - As a user, I want the ability to delete my review/comment for a movie.
+  - As a user, I want the ability to delete my own movies. 
+  - As a user, I want the ability to view movies others have added. 
+  - As a user, I want the ability to favorite movies that other people have added. 
+  - As a user, I want the ability to view all of the movies I have favorited. 
+  - As a user, I want the ability to remove movies from my favorites.
+
+  ## WireFrames / ScreenShots
+
+
+
+  ## Entity Relationship Diagrams (ERDs)
+
+
+
