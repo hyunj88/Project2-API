@@ -21,6 +21,36 @@ Movie Factory is an online database of information related to movies. It include
   - As a user, I want the ability to favorite movies that other people have added. 
   - As a user, I want the ability to view all of the movies I have favorited. 
   - As a user, I want the ability to remove movies from my favorites.
+  
+## Route tables for documents
+
+## Fruits
+| **URL**          | **HTTP Verb**|**Action**|
+|------------------|--------------|----------|
+| /moviess/        | GET          | index  
+| /movies/:id      | GET          | show       
+| /movies/new      | GET          | new   
+| /movies          | POST         | create   
+| /movies/:id/edit | GET          | edit       
+| /movies/:id      | PATCH/PUT    | update    
+| /movies/:id      | DELETE       | destroy 
+
+
+## Users
+| **URL**          | **HTTP Verb**|**Action**|
+|------------------|--------------|----------|
+| /users/signup    | GET          | new  
+| /users/signup    | POST         | create  
+| /users/login     | GET          | login 
+| /users/login     | POST         | create      
+| /users/logout    | DELETE       | destroy   
+
+
+## Comments
+| **URL**                                   | **HTTP Verb**  |**Action**|
+|-------------------------------------------|----------------|----------|
+| /comments/:movieId                        | POST           | create  
+| /comments/delete/:movieId/:commentId      | DELETE         | destroy       
 
   ## WireFrames / ScreenShots
 
