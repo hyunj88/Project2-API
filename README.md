@@ -33,7 +33,7 @@ Movie Factory is an online database of information related to movies. It include
   
 ## Route tables for documents
 
-## Fruits
+## Movies
 | **URL**          | **HTTP Verb**|**Action**|
 |------------------|--------------|----------|
 | /moviess/        | GET          | index  
